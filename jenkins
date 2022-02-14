@@ -16,3 +16,7 @@ sudo service jenkins start
 sudo systemctl enable jenkins
 sudo chkconfig jenkins on
 sudo setenforce 0
+
+                              sudo sudo yum -y update
+*create the jenkins floder*   sudo vi jenkins .sh
+*to run the cammand*          sh jenkins .sh 
